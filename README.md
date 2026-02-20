@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, Im Stuart
 
+- 🔧 Tech Lead focusing on Microsoft cloud and modern workplace
+- ☁️ Currently exploring: Copilot, App Control for Business and AI-assisted development
+- 🏍️ Collector of motorcycles and bad decisions
 <!--
 **stuart78ss/stuart78ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
